@@ -17,13 +17,13 @@ The awesome advantage of using the query function would be that when it comes to
 
 Another important note when using Bokeh:
 
+Navigate to the `source` directory and run:
+
 ```bash
-bokeh serve --show mainapp.py
+bokeh serve --show bokeh_app.py
 ```
 
-Based on where your directory is, if you are running a plot that has the ability to use any column you want, on terminal, you have to copy and paste the terminal command above.
-
-The mainapp.py is an example of a file name, so make sure you copy and paste the correct name of your file.
+Based on where your directory is, if you are running a plot that has the ability to use any column you want, on terminal, you have to copy and paste the terminal command above.  
 
 
 
